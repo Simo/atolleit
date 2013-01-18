@@ -3,14 +3,16 @@
 #variables for contents page
 
 # array structure => {1: label, 2: tip, 3:href}
-$menu_1 = array('savoir','savoir','savoir');
+$menu_1 = array('savoir','savoir','contents');
 $menu_2 = array('groupe','groupe','group');
 $menu_3 = array('contacts','contacts','contacts');
 $menu_4 = array('links','links','links');
 
 $menus = array($menu_1,$menu_2,$menu_3,$menu_4);
 
-$contentTitle = 'Lorem ipsum';
+$contentTitle = 'Nos services';
+
+$social = array('follow us on Facebook','follow us on Twitter','follow us on LinkedIn');
 
 $copyRight = 'Tous droits réservés';
 
@@ -37,17 +39,14 @@ $link8 = array('Colletif07','partner','images/links/collectif07_link.jpg','http:
 $link9 = array('Condotte','partner','images/links/condotte_link.jpg','http://www.condotte.com/');
 $link10 = array('Surgutneftegas','partner','images/links/surgutneftegas_link.jpg','http://www.surgutneftegas.ru/en/');
 $link11 = array('Snc Lavalin','partner','images/links/snclavalin_link.jpg','http://www.snclavalin.com/index.php?lang=en');
+$link12 = array('Archest','partner','images/links/archest_link.jpg','http://www.archest.it/');
 
-$links = array($link1,
-			   $link2,
+$links = array($link8,
 			   $link3,
-			   $link4,
 			   $link5,
-			   $link6,
-			   $link7,
-			   $link8,
-			   $link9,
-			   $link10,
-			   $link11);
+			   $link1,
+			   $link2,
+			   $link4,
+			   $link12);
 
 ?>

@@ -10,7 +10,9 @@ $menu_4 = array('линк','линк','links');
 
 $menus = array($menu_1,$menu_2,$menu_3,$menu_4);
 
-$contentTitle = 'УСЛУГИ И ОТРАСЛИ';
+$contentTitle = 'Наши услуги';
+
+$social = array('follow us on Facebook','follow us on Twitter','follow us on LinkedIn');
 
 $copyRight = 'Все права защищены.';
 
@@ -37,16 +39,13 @@ $link8 = array('Colletif07','partner','http://flickholdr.com/655/415/picasso','h
 $link9 = array('Condotte','partner','http://flickholdr.com/655/415/space','http://www.condotte.com/');
 $link10 = array('Surgutneftegas','partner','http://flickholdr.com/655/415/summer','http://www.surgutneftegas.ru/en/');
 $link11 = array('Snc Lavalin','partner','http://flickholdr.com/655/415/snow','http://www.snclavalin.com/index.php?lang=en');
+$link12 = array('Archest','partner','images/links/archest_link.jpg','http://www.archest.it/');
 
-$links = array($link1,
-			   $link2,
+$links = array($link8,
 			   $link3,
-			   $link4,
 			   $link5,
-			   $link6,
-			   $link7,
-			   $link8,
-			   $link9,
-			   $link10,
-			   $link11);
+			   $link1,
+			   $link2,
+			   $link4,
+			   $link12);
 ?>

@@ -3,7 +3,7 @@
 # site specific values
 
 $site_name = 'Atolle';
-$site_root = 'http://www.atolle.it';
+$site_root = 'http://www.atolle.com';
 $site_keywords = array($site_name, $site_root);
 $site_author = 'sbierti';
 
