@@ -13,7 +13,7 @@
  * $company_address = The destination address that will be used in the contact form */
 
 $email_address = 'info@atolle.com';
-$company_address_1 = 'Moscow, Russia';
+$company_address_1 = 'Udine, via Cotonificio 129';
 
 $company_address_2 = 'Tavagnacco, Udine, Italy';
 
